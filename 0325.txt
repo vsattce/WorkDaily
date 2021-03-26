@@ -35,4 +35,6 @@ SOCKET_PROT
 999
 11219
 server
+s3
+s30001
 serverName
