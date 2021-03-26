@@ -15,3 +15,24 @@
 收费接口
 
 //
+
+游客1 
+账号0
+
+//
+SERVER_ROOT
+http://192.168.100.240/game1_lianxian_cn/web_app/index.php
+
+CDN_ROOT
+"http://112.74.29.148/cdn/"
+"http://game1.yingyugame.com:10701/cdn_lianxian_cn/"
+
+SOCKET_SERVER_ROOT
+192.168.1.239
+game1.yingyugame.com
+
+SOCKET_PROT
+999
+11219
+server
+serverName
