@@ -1,0 +1,18 @@
+config_chapter tag 0主线 1统计量
+week 开放
+dungen 关卡 1 2 3 id
+dailytimes 次数max
+
+config_dungeon
+ 关卡详情
+id 对应dungen 关卡 1 2 3 id
+showdrop 显示地阿罗
+opencondition 解锁条件 1level 2主线  2_1020
+need energy关卡消耗体力
+
+次数  user_dungeen 
+	dungeon 当前关卡 大于
+	special json
+	star 星星 json 全关卡
+
+use＿energy体力
