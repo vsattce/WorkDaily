@@ -1,0 +1,38 @@
+config_chapter tag 0主线 1统计量
+week 开放
+dungen 关卡 1 2 3 id
+dailytimes 次数max
+
+config_dungeon
+ 关卡详情
+id 对应dungen 关卡 1 2 3 id
+showdrop 显示地阿罗
+opencondition 解锁条件 1level 2主线  2_1020
+need energy关卡消耗体力
+
+次数  user_dungeen 
+	dungeon 当前关卡 大于
+	special json
+	star 星星 json 全关卡
+
+use＿energy体力
+
+//修改读取数据逻辑 之后改
+动画效果
+
+资源素材调整
+//时间倒计时
+//关卡开放进度限制
+//入场按钮
+和李阳对接
+
+261 -22
+862 148
+
+//
+//
+界面重做
+动画效果添加
+进入战斗逻辑需要修改
+战斗结算 返回按钮位置
+战斗后星级评价没保存
