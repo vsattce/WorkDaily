@@ -44,3 +44,4 @@ use＿energy体力
 #上下进入
 #左右进入
 scrollview自动滚动
+左侧选择条突出
